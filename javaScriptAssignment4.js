@@ -1,4 +1,4 @@
-// --------------------------Assignment-4
+// ================================== ASSIGNMENT-4 ==================================//
 // Q1. Find the Product. 
 // Write a program that takes an array as input from the user and find out the product of the elements. 
 // Note: You have to complete Find_Prod. No need to take any input.
@@ -222,5 +222,6 @@ function MinMax(num){
 }
 const num = [9,2,3,70,5,6,8]
 MinMax(num);
+
 
 // ================================== END ASSIGNMENT-4 ==================================//
